@@ -54,6 +54,7 @@ fragen = [
 "Wo liegt der Marianengraben?",
 "Wo ist der Firmensitz von Google?",
 
+"Wo liegt Köln?"
 ];
 
 
