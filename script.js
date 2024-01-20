@@ -36,7 +36,7 @@ img.src = 						"https://upload.wikimedia.org/wikipedia/commons/c/cb/Tissot_indi
 
 // Fragen
 fragen = [
-"Wo findet das 100 Meter Finale der olypmischen Spiele 2024 statt?",
+"Wo findet das 100 Meter Finale von Olympia 2024 statt?",
 "Wo liegt das Wrack der Titanic?",
 "Wo liegt der höchste Berg in der EU?",
 "Wo liegt die größte Stadt der Welt?",
@@ -54,7 +54,6 @@ fragen = [
 "Wo liegt der Marianengraben?",
 "Wo ist der Firmensitz von Google?",
 
-"Wo liegt Köln?"
 ];
 
 
